@@ -1,2 +1,3 @@
 google--git
 youtube
+chrome
