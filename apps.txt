@@ -3,5 +3,5 @@ youtube
 chrome
 facebook
 
-whatsapp
+instagram
 
