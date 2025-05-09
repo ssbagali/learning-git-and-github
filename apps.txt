@@ -4,4 +4,3 @@ chrome
 facebook
 whatsapp
 googlepay
-
