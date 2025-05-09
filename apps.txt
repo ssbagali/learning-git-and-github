@@ -3,4 +3,4 @@ youtube
 chrome
 facebook
 whatsapp
-googlepay
+googlepay_
