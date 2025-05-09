@@ -2,3 +2,4 @@ google--git
 youtube
 chrome
 facebook
+whatsapp
